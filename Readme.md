@@ -1,6 +1,6 @@
 # Logic gate simulation by Romain DUHR based on Jeremie DEQUIDT and Bernard CARRE java course Polytech Lille
 
-## Game Description
+## Project Description
 This archive includes a Java project for simulating logic gates. In the "circuits" directory, you will find all the source codes for the simulation. This allows the creation of circuits, logic gates, and probes. Additionally, you can save and restore a circuit (in a *.bin file) using the test classes. Finally, a graphical component has been added to the project, based on Bernard CARRE's code.
 
 ## Compilation linux
