@@ -10,7 +10,6 @@ To compile successfully, you will need to install the JDK (Java Development Kit)
 sudo apt-get upgrade
 sudo apt install openjdk-11-jdk
 ```
-
 To compile the archive:
 ```
 javac circuits/*.java
